@@ -1,6 +1,7 @@
 # HPFdatascrapes
 
 HPF: Hyper-Palatable Foods
+
 The raw data is protected by the University at Buffalo Department of Behavioral Medicine. 
 Attached are the 3 python scripts used to scrape, clean, and group the data as needed.
 
